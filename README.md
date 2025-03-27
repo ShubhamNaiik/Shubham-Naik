@@ -2,12 +2,6 @@
 
 **Business Analyst | Certified Scrum Master | Tableau Specialist**
 
-Toronto, Canada  
-📧 naikshubham.work@gmail.com  
-[GitHub](https://github.com/ShubhamNaiik) | [LinkedIn](https://www.linkedin.com/in/)
-
----
-
 ## About Me
 
 I'm a Business Analyst with strong experience in financial analysis, credit risk assessment, and data storytelling. I specialize in using tools like **Power BI**, **Tableau**, **SQL**, and **Excel** to uncover insights, improve decision-making, and streamline operations.
