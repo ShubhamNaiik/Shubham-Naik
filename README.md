@@ -1,36 +1,63 @@
-# Hi, I'm Shubham Naik 👋
+# 👋 Hi, I'm Shubham Naik
 
-**Business & Data Analyst | Power BI Developer | SQL Enthusiast**  
-📍 Toronto, ON | 💼 Open to work | 📫 naikshubham.work@gmail.com
-
----
-
-## About Me
-
-I'm a Business Analyst passionate about using data to solve real-world problems. I specialize in creating impactful dashboards, automating reports, and uncovering insights that drive smarter business decisions.
-
-With experience across retail, finance, and media, I bring a blend of analytical thinking and business acumen. I enjoy turning messy data into meaningful stories that help teams make informed moves.
+🎯 **Business Analyst | Data-Driven Decision Maker | Certified Scrum Master | Tableau Specialist**  
+📍 Toronto, ON, Canada  
+📧 naikshubham.work@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/ShubhamNaiik)
 
 ---
 
-## Tools & Skills
+## 🚀 About Me
 
-- **Analytics & BI:** Power BI, Tableau, Excel, SQL  
-- **Data Tools:** Python (basics), SAS  
-- **Project Tools:** JIRA, Confluence, Agile, Scrum 
-- **Focus Areas:** KPI Tracking, Data Visualization, Reporting Automation, Process Optimization
+I'm a motivated **Business Analyst** who turns complex data into simple, strategic business solutions. With a background in **financial analysis**, **credit risk assessment**, and **data visualization**, I help businesses optimize performance and drive growth through data-driven insights.
+
+What sets me apart?
+> ✅ **Certified Scrum Master (CSM)** – I bring agile thinking and collaboration to every project.  
+> ✅ **Certified Tableau Desktop Specialist** – I create powerful dashboards that turn numbers into clear, actionable stories.
+
+From analyzing commercial lending portfolios to building dynamic dashboards in Power BI and Tableau, I use data not just to inform — but to inspire better business decisions.
 
 ---
-## Certifications
 
-- **Certified Scrum Master (CSM)** – Scrum Alliance  
-- **Tableau Desktop Specialist** – Tableau  
-- **Asana Workflow Specialist** – Asana  
-- **SQL for Data Analytics** – by Luke Barousse  
+## 🧠 Core Strengths
+
+- **Business Intelligence**: Tableau, Power BI, SQL, Excel (Pivot Tables, Power Query)
+- **Financial & Credit Analysis**: Loan evaluations, financial modeling, risk assessment
+- **Process Optimization**: Workflow improvements, data pipeline automation, cost reduction
+- **Reporting & Visualization**: KPI dashboards, trend analysis, stakeholder presentations
+- **Agile & Communication**: Certified Scrum Master, strong documentation, cross-functional teamwork
+
 ---
 
-## Let's Connect
+## 📊 Featured Projects
 
-I'm always open to new opportunities, collaborations, or even a quick chat about data.  
-📧 **naikshubham.work@gmail.com**  
-🔗 [LinkedIn][https://www.linkedin.com/in/theshubhamnaik/] | [GitHub][https://github.com/ShubhamNaiik]
+- **Auto Theft Analysis** — Revealed trends from 7,500+ cases to assist law enforcement with predictive insights  
+- **Customer Segmentation** — Identified high-value clients to enable data-driven marketing strategies  
+- **Healthcare & Loan Dashboards** — Created real-time visuals to support strategic business decisions
+
+👉 See all my projects on [GitHub](https://github.com/ShubhamNaiik?tab=repositories)
+
+---
+
+## 🎓 Education & Certifications
+
+**Education**  
+🎓 *Business Analytics*, Seneca Polytechnic College  
+🎓 *International Business Management*, Sheridan College  
+🎓 *BBA*, BMCC, India
+
+**Certifications**  
+🏅 **Certified Scrum Master (CSM)** – Scrum Alliance  
+📊 **Tableau Desktop Specialist** – Tableau  
+🧠 **Asana Workflow Specialist** – Asana  
+🧮 **SQL for Data Analytics** – Luke Barousse
+
+---
+
+## 🤝 Let's Connect
+
+I’m open to exciting opportunities in **Business Analytics**, especially roles where I can combine my technical skills and business acumen to make a real impact.
+
+📬 naikshubham.work@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/)
+
