@@ -42,15 +42,15 @@ From analyzing commercial lending portfolios to building dynamic dashboards in P
 ## 🎓 Education & Certifications
 
 **Education**  
-🎓 *Business Analytics*, Seneca Polytechnic College  
-🎓 *International Business Management*, Sheridan College  
-🎓 *BBA*, BMCC, India
+*Business Analytics*, Seneca Polytechnic College  
+ *International Business Management*, Sheridan College  
+ *BBA*, BMCC, India
 
 **Certifications**  
-🏅 **Certified Scrum Master (CSM)** – Scrum Alliance  
-📊 **Tableau Desktop Specialist** – Tableau  
-🧠 **Asana Workflow Specialist** – Asana  
-🧮 **SQL for Data Analytics** – Luke Barousse
+ **Certified Scrum Master (CSM)** – Scrum Alliance  
+ **Tableau Desktop Specialist** – Tableau  
+ **Asana Workflow Specialist** – Asana  
+
 
 ---
 
