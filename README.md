@@ -32,7 +32,7 @@ I’m a **Certified Scrum Master** and a **Tableau Desktop Specialist**, combini
 
 I'm always open to new opportunities, collaborations, and meaningful connections in the analytics and business intelligence space.
 
-📩 **Email**: naikshubham.work@gmail.com  
+📩 **Email**: shubhamdanaik@gmail.com  
 🔗 **LinkedIn**: [linkedin.com/in/](https://www.linkedin.com/in/)  
 💻 **GitHub**: [github.com/ShubhamNaiik](https://github.com/ShubhamNaiik)
 
