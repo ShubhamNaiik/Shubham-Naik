@@ -1,28 +1,31 @@
-# Hi, I'm Shubham Naik
+# Hi, I'm Shubham Naik 
 
-**Business Analyst | Certified Scrum Master | Tableau Specialist**
+## AML Analyst | Transaction Monitoring | KYC & EDD | STR Filing | Power BI, SQL, Excel
 
-## About Me
+I’m an **AML Analyst** with strong expertise in **transaction monitoring, KYC reviews, Enhanced Due Diligence (EDD), and STR filing**. I specialize in using **Power BI, SQL, and Excel** to analyze financial transactions, identify red flags, and support compliance reporting aligned with **FATF and FINTRAC standards**.
 
-I’m an AML Analyst with strong expertise in transaction monitoring, KYC reviews, Enhanced Due Diligence (EDD), and STR filing. I specialize in using Power BI, SQL, and Excel to analyze financial transactions, identify red flags, and support compliance reporting aligned with FATF and FINTRAC standards.
-I have developed AML dashboards, KYC risk scoring models, and EDD reports that simulate real-world investigations, showcasing my ability to detect suspicious activities and mitigate financial crime risks effectively.
----
+🔍 **What I Do:**  
+- Analyze transaction data to detect suspicious activities and typologies  
+- Develop AML dashboards for risk visualization and monitoring  
+- Build KYC risk scoring models for proactive customer risk classification  
+- Draft STRs and EDD reports to support compliance escalations
 
-## Key Skills
+ **My Projects Showcase:**  
+ AML Transaction Monitoring & EDD Reporting  
+ KYC Sentinel Risk Scoring Dashboard  
 
-- Transaction Monitoring & STR Filing
-- KYC & EDD Reviews
-- AML Compliance Reporting
-- Data Analysis: Power BI, SQL, Excel
 
----
-
-## Certifications
-
-- Certified Scrum Master (CSM) – Scrum Alliance  
-- Tableau Desktop Specialist – Tableau  
+I’m passionate about leveraging data to fight financial crime and enhance regulatory compliance.
 
 ---
+
+ **Let's Connect:**  
+- [LinkedIn](https://www.linkedin.com/in/theshubhamnaik/)  
+- [GitHub](https://github.com/ShubhamNaiik)  
+-  shubhamdaik@gmail.com
+
+---
+
 
 ## Let's Connect
 
