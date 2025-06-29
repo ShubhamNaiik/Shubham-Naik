@@ -4,18 +4,16 @@
 
 ## About Me
 
-I'm a Business Analyst with strong experience in financial analysis, credit risk assessment, and data storytelling. I specialize in using tools like **Power BI**, **Tableau**, **SQL**, and **Excel** to uncover insights, improve decision-making, and streamline operations.
-
-I’m a **Certified Scrum Master** and a **Tableau Desktop Specialist**, combining analytical skills with agile methodology to deliver real business value.
-
+I’m an AML Analyst with strong expertise in transaction monitoring, KYC reviews, Enhanced Due Diligence (EDD), and STR filing. I specialize in using Power BI, SQL, and Excel to analyze financial transactions, identify red flags, and support compliance reporting aligned with FATF and FINTRAC standards.
+I have developed AML dashboards, KYC risk scoring models, and EDD reports that simulate real-world investigations, showcasing my ability to detect suspicious activities and mitigate financial crime risks effectively.
 ---
 
 ## Key Skills
 
-- Data Analysis & Visualization: Tableau, Power BI, SQL, Excel  
-- Financial Insights: Credit risk, loan evaluation, portfolio analysis  
-- Reporting & Dashboards: KPI tracking, business reporting, stakeholder insights  
-- Agile & Collaboration: Scrum, documentation, process improvement
+- Transaction Monitoring & STR Filing
+- KYC & EDD Reviews
+- AML Compliance Reporting
+- Data Analysis: Power BI, SQL, Excel
 
 ---
 
@@ -23,8 +21,6 @@ I’m a **Certified Scrum Master** and a **Tableau Desktop Specialist**, combini
 
 - Certified Scrum Master (CSM) – Scrum Alliance  
 - Tableau Desktop Specialist – Tableau  
-- Asana Workflow Specialist  
-- SQL for Data Analytics – Luke Barousse
 
 ---
 
