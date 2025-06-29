@@ -27,11 +27,3 @@ I’m passionate about leveraging data to fight financial crime and enhance regu
 ---
 
 
-## Let's Connect
-
-I'm always open to new opportunities, collaborations, and meaningful connections in the analytics and business intelligence space.
-
-📩 **Email**: shubhamdanaik@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/](https://www.linkedin.com/in/)  
-💻 **GitHub**: [github.com/ShubhamNaiik](https://github.com/ShubhamNaiik)
-
